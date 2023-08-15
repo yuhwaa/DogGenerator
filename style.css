@@ -21,7 +21,7 @@ select {
     flex: 1;
 }
 img {
-    max-width: 500px;
+    max-width: 10rem;
 }
 span {
     font-weight: bold;
