@@ -1,7 +1,7 @@
 html {
     font-size: 2rem;
     font-family:'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
-    background: linear-gradient(lightyellow, orange);
+    /* background: linear-gradient(lightyellow, orange); */
     height: 100vh;
 }
 header {
